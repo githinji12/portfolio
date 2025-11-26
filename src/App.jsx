@@ -58,7 +58,7 @@ function App() {
         <p>WhatsApp: <a href="https://wa.me/254745506462" target="_blank" rel="noopener noreferrer">0745506462</a></p>
         <div style={{ marginTop: 24 }}>
   <a
-    href="/Brian_Githinji_Frontend_Developer_Resume.pdf"
+    href="/Brian_Githinji_Frontend_Developer_Resume.html"
     download
     style={{
       backgroundColor: "#2563eb",
